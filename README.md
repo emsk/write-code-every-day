@@ -21,3 +21,7 @@ Imagine. Implement. Iterate. Improve.
 ## 500 days (2017-05-14)
 
 <p align="center"><img src="https://raw.githubusercontent.com/emsk/write-code-every-day/master/500days.png" alt="500 days"></p>
+
+## 600 days (2017-08-22)
+
+<p align="center"><img src="https://raw.githubusercontent.com/emsk/write-code-every-day/master/600days.png" alt="600 days"></p>
